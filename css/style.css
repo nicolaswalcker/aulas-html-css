@@ -81,5 +81,11 @@ body{
     background: rgb(241, 80, 80);
 }
 
+#totalTip{
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+
 
 
