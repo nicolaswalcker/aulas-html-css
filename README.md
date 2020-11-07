@@ -1,2 +1,2 @@
-# aulas-html-css
- Estudo sobre HTML e CSS.
+# Calculadora de Gorjetas
+ Calculadora feita durante minicurso da OneBitCode.
